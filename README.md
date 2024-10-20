@@ -72,5 +72,3 @@ switch workspaces using
 ```
 terraform workspace select WORKSPACE_NAME
 ```
-
-![arch](arch.png)
